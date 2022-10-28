@@ -12,7 +12,7 @@
   }
   /* 分页页面 */
 div#page{
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.267);
   }
   /* 归档页面 */
   div#archive{
@@ -94,8 +94,8 @@ div#page{
       }
 
 /* 滚动条 */
-::-webkit-scrollbar-thumb {
-  background-color: #2ab1ff;
+/* ::-webkit-scrollbar-thumb {
+  background-color: #4B4B4B;
   background-image: -webkit-linear-gradient(
     45deg,
     rgba(255, 255, 255, 0.4) 25%,
